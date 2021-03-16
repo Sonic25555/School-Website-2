@@ -1,0 +1,25 @@
+#travel {
+    text-align: center;
+    background-color: dimgray;
+    color: white;
+}
+
+#movies {
+    text-align: center;
+    background-color: dimgray;
+    color: white;
+}
+
+p {
+    font-family: cursive;
+}
+
+body {
+    background-color: dimgray;
+}
+
+#aboutMe {
+    text-align: center;
+    background-color: dimgray;
+    color: white;
+}
